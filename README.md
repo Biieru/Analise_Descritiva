@@ -33,7 +33,7 @@ DB Funcionarios/
 
 ├── 📋 requeriments.txt # Dependências do projeto para poder rodar os códigos (libs)
 
-└── 📁 venv_funcionarios/ # Ambiente virtual Python (ignore)
+└── 📁 venv_funcionarios/ # Ambiente virtual Python (crie o seu venv)
 
 
 ## Como Executar
